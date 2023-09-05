@@ -1,4 +1,4 @@
-namespace project;
+namespace {{ values.fullName }};
 
 public class WeatherForecast
 {
